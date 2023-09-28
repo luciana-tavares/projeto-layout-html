@@ -1,0 +1,48 @@
+body {
+    background-color:#F2F2F2;
+    color:#011526;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.alinhamento {
+    text-align: center;
+}
+
+.subtitulos {
+    background-color: #E1F25C;
+}
+
+.fontes {
+    color:#011526;
+    
+}
+
+.caixa {
+    background-color:#84B2F5;
+}
+
+.margem {
+    margin: 80px;
+}
+
+.padd {
+    padding: 80px;
+
+}
+
+.borda {
+    border: 5px solid  #E1F25C;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #011526;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a:hover {
+    color: darkolivegreen;
+    background-color: #E1F25C;
+}
